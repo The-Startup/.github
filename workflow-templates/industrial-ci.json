@@ -1,0 +1,9 @@
+{
+    "name": "Industrial CI workflow",
+    "description": "A ROS workflow utilizing Industrial CI",
+    "categories": ["Python", "C++"],
+    "filePatterns": [
+        "^package.xml$",
+        "^CMakeLists.txt$"
+    ]
+}
